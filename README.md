@@ -11,7 +11,7 @@ Combinatorics - There are only 138 terminal board positions when only the state 
 - A "cat's game" is played in which three separate positions are drawn.
 
 # Minimax Algorithm Visualisation
-
+![alt text](https://github.com/hetapatel638/tictactoeAI/blob/main/tictactoe.PNG)
 # Pseudocode
 ```
 function minimax(node, depth, isMaximizingPlayer, alpha, beta):
